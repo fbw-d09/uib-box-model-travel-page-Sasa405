@@ -1,0 +1,105 @@
+
+
+
+body {
+    background: url("./images/pexels-pixabay-37403.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+    
+    
+  }
+
+  header
+  {
+    padding-top: 150px;
+    max-width: 1520px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+
+  h1
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    position: relative;
+    right: 0px;
+    color: rgb(249, 245, 245);
+  }
+
+h4
+{
+    text-transform: uppercase;
+}
+
+hr
+{
+    width: 1000px;
+    color: #e9e4e4f5;
+}
+
+  .main
+{
+    box-sizing: border-box;
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(249, 245, 245);
+    border: #e9e4e4f5 solid 20px;
+    background-image: url(./images/beach.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    background-position: right;
+}
+
+.nav ul a
+{
+    text-decoration: none;
+    color: #000000;
+}
+
+.nav
+{
+    font-weight: bold;
+    position: relative;
+    left: 200px;
+}
+
+.nav ul a:hover
+{
+    color: #2e6183;
+    font-weight: bolder;
+    position: right;
+    
+}
+
+article
+{
+    position: relative;
+    top: 100px;
+    padding-left: 20px;
+    
+}
+
+article p 
+{
+    max-width: 340px;
+}
+
+.Copyright
+{
+    position: relative;
+    display: flex;
+    top: 125px;
+    left: 30px;
+    font-size: 15px;
+    background-color: #e9e5e5;
+    width: 410px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+
+    
+}
